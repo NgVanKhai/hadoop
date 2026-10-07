@@ -1,0 +1,7 @@
+Hadoop 3.3.6
+Source code repository https://github.com/apache/hadoop.git -r 1cd7828f1c78d3369a19d7d9b936058f4a132924
+Compiled by stevel on 2023-06-18T08:14Z
+Compiled with protoc 3.7.1
+From source with checksum 89ee885873cd6a939f5c401340a6b73a
+This command was run using /usr/local/hadoop/share/hadoop/common/hadoop-common-3.3.6.jar
+Python 3.10.12

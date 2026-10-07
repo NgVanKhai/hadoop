@@ -1,0 +1,12 @@
+Found 1 items
+-rw-r--r--   1 student supergroup     168470 2026-10-07 14:40 /user/student/ecommerce/input/orders_2026_09.csv
+transaction_id,order_date,order_time,province,category,channel,quantity,unit_price,amount,status,shipping_days
+TX000001,2026-09-01,08:30:15,Ha Noi,Electronics,Shopee,2,1700000,3400000,SUCCESS,2
+TX000002,2026-09-01,09:12:40,Da Nang,Fashion,TikTok Shop,2,260000,520000,SUCCESS,3
+TX000003,2026-09-01,10:05:22,Can Tho,Grocery,Lazada,2,90000,180000,FAILED,4
+TX000004,2026-09-01,11:45:10,Lam Dong,Book,Shopee,2,125000,250000,SUCCESS,3
+TX000005,2026-09-21,03:01:47,Hai Phong,Electronics,Shopee,1,12860000,12860000,SUCCESS,5
+TX000006,2026-09-19,13:02:01,Ho Chi Minh,Electronics,TikTok Shop,1,10600000,10600000,SUCCESS,5
+TX000007,2026-09-23,20:44:34,Binh Duong,Electronics,Tiki,1,5170000,5170000,SUCCESS,2
+TX000008,2026-09-11,08:09:13,Lam Dong,Electronics,Website,2,2120000,4240000,SUCCESS,3
+TX000009,2026-09-09,01:46:29,Quang Ninh,Electronics,Website,2,1820000,3640000,CANCELLED,3

@@ -1,0 +1,6 @@
+2026-10-07 14:40:02,112 INFO fs.TrashPolicyDefault: Initializing TrashPolicyDefault
+2026-10-07 14:40:02,420 INFO client.DefaultNoHARetryHandler: Created directory /user/student/ecommerce/input
+2026-10-07 14:40:02,735 INFO client.DefaultNoHARetryHandler: Created directory /user/student/ecommerce/output
+2026-10-07 14:40:04,180 INFO hdfs.DataStreamer: Connecting to DataNode [127.0.0.1:9866] for block BP-104928374-127.0.0.1-1718000000000:blk_1073741825_1001
+2026-10-07 14:40:04,395 INFO hdfs.DataStreamer: Copied 168470 bytes from local orders_2026_09.csv to HDFS /user/student/ecommerce/input/orders_2026_09.csv
+[SUCCESS] Uploaded orders_2026_09.csv to HDFS successfully.
